@@ -8,19 +8,18 @@ Mi hoja de vida en lenguaje .md
 ## UI Web Developer - 7 años
 **[Diseñador UI, Maquetador, Programador Front End]**
 
-> **Portafolio:** [behance.net/jleon253](https://www.behance.net/jleon253)
-
+> **Portafolio:** [behance.net/jleon253](https://www.behance.net/jleon253)  <br/>
 > **Linkedin:** [linkedin.com/in/jleon253](https://www.linkedin.com/in/jleon253/)
 
 ***
 # MIS DATOS
 
-> Edad: 28 Años <br/>
-> CC: 1.012386.672
-> Celular / WhatsApp: 3112456978
-> Fecha de nacimiento:  25 / Marzo / 1992
-> Sangre: B+
-> Email:  jleon253@gmail.com
+> Edad: 28 Años  <br/>
+> CC: 1.012386.672  <br/>
+> Celular / WhatsApp: 3112456978  <br/>
+> Fecha de nacimiento:  25 / Marzo / 1992  <br/>
+> Sangre: B+  <br/>
+> Email:  jleon253@gmail.com  <br/>
 > Ciudad: Bogotá D.C
 
 ***
@@ -121,109 +120,109 @@ La vida profesional es un puzzle y cada pieza encaja. Así, con mis años de exp
 ## Labor 1
 
 **Empresa: Bits Americas SAS**
-> fecha fin : Enero 2020
-> fecha inicio : Septiembre 2018
-> cargo : Front End Developer
-> cliente : TIGO Millicom International
-> proyecto : Mi Cuenta Tigo
-> lugar : Bogotá D.C
-> modalidad : Teletrabajo
+> fecha fin : Enero 2020  <br/>
+> fecha inicio : Septiembre 2018  <br/>
+> cargo : Front End Developer  <br/>
+> cliente : TIGO Millicom International  <br/>
+> proyecto : Mi Cuenta Tigo  <br/>
+> lugar : Bogotá D.C  <br/>
+> modalidad : Teletrabajo  <br/>
 > tareas : [ Lider en diseño UI, Maquetacion web, Desarrollo Front con Angular y React, CMS Drupal, Control de versiones ]
  
 ## Labor 2
 
 **Empresa: Digistart Group**
-> fecha fin : Julio 2018
-> fecha inicio : Abril 2016
-> cargo : UI Web Developer
-> cliente : Pymes
-> proyecto : Páginas web
-> lugar : Bogotá D.C
-> modalidad : Teletrabajo
+> fecha fin : Julio 2018  <br/>
+> fecha inicio : Abril 2016  <br/>
+> cargo : UI Web Developer  <br/>
+> cliente : Pymes  <br/>
+> proyecto : Páginas web  <br/>
+> lugar : Bogotá D.C  <br/>
+> modalidad : Teletrabajo  <br/>
 > tareas : [ Diseño GUI, Maquetación web, Desarrollo Front con JavaScript, CMS wordpress, Control de versiones, Servicio al cliente, Dominio y hosting ]
  
 ## Labor 3
 
 **Empresa: Ingenieros de Marketing SAS**
-> fecha fin : Junio 2018
-> fecha inicio : Febrero 2017
-> cargo : WebSite Designer
-> cliente : Grandes empresas
-> proyecto : Paginas web
-> lugar : Bogotá D.C
-> modalidad : Teletrabajo
+> fecha fin : Junio 2018  <br/>
+> fecha inicio : Febrero 2017  <br/>
+> cargo : WebSite Designer  <br/>
+> cliente : Grandes empresas  <br/>
+> proyecto : Paginas web  <br/>
+> lugar : Bogotá D.C  <br/>
+> modalidad : Teletrabajo  <br/>
 > tareas : [ Diseño GUI, Maquetacion web, CMS wordpress, Servicio al cliente ]
  
 ## Labor 4
 
 **Empresa: Soluciones Web S3G**
-> fecha fin : Mayo 2018
-> fecha inicio : Octubre 2017
-> cargo : Diseñador GUI
-> cliente : Pymes
-> proyecto : Páginas y Apps web
-> lugar : Bogotá D.C
-> modalidad : Teletrabajo
+> fecha fin : Mayo 2018  <br/>
+> fecha inicio : Octubre 2017  <br/>
+> cargo : Diseñador GUI  <br/>
+> cliente : Pymes  <br/>
+> proyecto : Páginas y Apps web  <br/>
+> lugar : Bogotá D.C  <br/>
+> modalidad : Teletrabajo  <br/>
 > tareas : [ Diseño GUI, Maquetación web, Desarrollo Front con JavaScript, CMS wordpress ]
 
 ## Labor 5
 
 **Empresa: Management And Quality SAS**
-> fecha fin : Marzo 2018
-> fecha inicio : Diciembre 2017
-> cargo : UI Web Developer
-> cliente : Agencia Presidencial de Cooperación - APC
-> proyecto : Portal Web - CICLOPE
-> lugar : Bogotá D.C
-> modalidad : Presencial - Teletrabajo
+> fecha fin : Marzo 2018  <br/>
+> fecha inicio : Diciembre 2017  <br/>
+> cargo : UI Web Developer  <br/>
+> cliente : Agencia Presidencial de Cooperación - APC  <br/>
+> proyecto : Portal Web - CICLOPE  <br/>
+> lugar : Bogotá D.C  <br/>
+> modalidad : Presencial - Teletrabajo  <br/>
 > tareas : [ Diseño GUI, Maquetacion web, Desarrollo Front con JavaScript, Control de versiones ]
  
 ## Labor 6
 
 **Empresa: QENTEK SAS**
-> fecha fin : Febrero 2018
-> fecha inicio : Diciembre 2017
-> cargo : UI Web Developer
-> cliente : QENTEK SAS
-> proyecto : Trotalo - App de Turismo
-> lugar : Bogotá D.C
-> modalidad : Teletrabajo
+> fecha fin : Febrero 2018  <br/>
+> fecha inicio : Diciembre 2017  <br/>
+> cargo : UI Web Developer  <br/>
+> cliente : QENTEK SAS  <br/>
+> proyecto : Trotalo - App de Turismo  <br/>
+> lugar : Bogotá D.C  <br/>
+> modalidad : Teletrabajo  <br/>
 > tareas : [ Diseño GUI, Maquetación web, Desarrollo Front con AngularJS, Control de versiones ]
 
 ## Labor 7
 
 **Empresa: Profamilia**
-> fecha fin : Marzo 2016
-> fecha inicio : Enero 2016
-> cargo : Asesor usuario final
-> cliente : Profamilia
-> proyecto : ENSIN 2015
-> lugar : Bogotá D.C
-> modalidad : Presencial
+> fecha fin : Marzo 2016  <br/>
+> fecha inicio : Enero 2016  <br/>
+> cargo : Asesor usuario final  <br/>
+> cliente : Profamilia  <br/>
+> proyecto : ENSIN 2015  <br/>
+> lugar : Bogotá D.C  <br/>
+> modalidad : Presencial  <br/>
 > tareas : [ Atención al cliente, Capacitador de grupos para software ]
 
 ## Labor 8
 
 **Empresa: Helio 4 SAS**
-> fecha fin : Febrero 2016
-> fecha inicio : Marzo 2015
-> cargo : Back End Developer
-> cliente : Bancolombia
-> proyecto : Web App de Avaluos
-> lugar : Bogotá D.C
-> modalidad : Presencial - Teletrabajo
+> fecha fin : Febrero 2016  <br/>
+> fecha inicio : Marzo 2015  <br/>
+> cargo : Back End Developer  <br/>
+> cliente : Bancolombia  <br/>
+> proyecto : Web App de Avaluos  <br/>
+> lugar : Bogotá D.C  <br/>
+> modalidad : Presencial - Teletrabajo  <br/>
 > tareas : [ Maquetación web, Desarrollo Back con JEE6, Transacciones con bases de datos, Control de versiones ]
 
 ## Labor 9
 
 **Empresa: Solredes SAS**
-> fecha fin : Marzo 2015
-> fecha inicio : Agosto 2013
-> cargo : Back End Developer
-> cliente : Positiva Seguros
-> proyecto : BPM App
-> lugar : Bogotá D.C
-> modalidad : Presencial
+> fecha fin : Marzo 2015  <br/>
+> fecha inicio : Agosto 2013  <br/>
+> cargo : Back End Developer  <br/>
+> cliente : Positiva Seguros  <br/>
+> proyecto : BPM App  <br/>
+> lugar : Bogotá D.C  <br/>
+> modalidad : Presencial  <br/>
 > tareas : [ Maquetacion web, Desarrollo Back con JEE6, Desarrollo con Java SE, Transacciones con bases de datos, Control de versiones ]
 
 ***
@@ -232,16 +231,16 @@ La vida profesional es un puzzle y cada pieza encaja. Así, con mis años de exp
 ## Profesional
 
 **I.E.D Fernando Mazuera Villegas**
-> Bachiller Media Técnica
-> Especialidad en Electrónica
+> Bachiller Media Técnica  <br/>
+> Especialidad en Electrónica  <br/>
 > 2003 - 2008
 
 **Universidad Distrital Francisco Jose de Caldas**
-> Tecnologó en Sistematización de Datos
+> Tecnologó en Sistematización de Datos  <br/>
 > 2009 - 2019
 
 **Universidad Nacional Abierta y a Distancia**
-> Ingenieria Multimedia
+> Ingenieria Multimedia  <br/>
 > 2020 - Actualidad
 
 ## Cursos y diplomados
@@ -284,30 +283,30 @@ La vida profesional es un puzzle y cada pieza encaja. Así, con mis años de exp
 ## Laborales
 
 **Ximena Dueñas**
-> Scrum master en TIGO Millicom International
-> Lider inmediato
+> Scrum master en TIGO Millicom International  <br/>
+> Lider inmediato  <br/>
 > 301 791 09 63
 
 **John Sánchez**
-> Desarrollador Front End en Bits Americas SAS
-> Compañero de equipo
+> Desarrollador Front End en Bits Americas SAS  <br/>
+> Compañero de equipo  <br/>
 > 311 841 43 89
 
 **Julian Castiblanco**
-> Director en Ingenieros de Marketing
-> Jefe inmediato
+> Director en Ingenieros de Marketing  <br/>
+> Jefe inmediato  <br/>
 > 300 639 81 81
 
 ## Personales
 
 **César Camargo**
-> Psicólogo Universidad Nacional de Colombia
+> Psicólogo Universidad Nacional de Colombia  <br/>
 > 312 422 38 36
 
 **Luis Gualteros**
-> Desarrollador Full Stack en Vision Mobile SAS
+> Desarrollador Full Stack en Vision Mobile SAS  <br/>
 > 320 977 62 14
 
 **Juan Orjuela**
-> Desarrollador Back End en Aval Digital Labs
+> Desarrollador Back End en Aval Digital Labs  <br/>
 > 312 346 60 04
