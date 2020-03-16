@@ -9,12 +9,13 @@ Mi hoja de vida en lenguaje .md
 **[Diseñador UI, Maquetador, Programador Front End]**
 
 > **Portafolio:** [behance.net/jleon253](https://www.behance.net/jleon253)
+
 > **Linkedin:** [linkedin.com/in/jleon253](https://www.linkedin.com/in/jleon253/)
 
 ***
 # MIS DATOS
 
-> Edad: 28 Años
+> Edad: 28 Años <br/>
 > CC: 1.012386.672
 > Celular / WhatsApp: 3112456978
 > Fecha de nacimiento:  25 / Marzo / 1992
