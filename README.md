@@ -3,7 +3,7 @@
 # Hello there! <img src="bluelightsaber.png" alt="lightsaber" width="40"/>
 Mi name is ```John León``` and welcome to my GitHub profile 👋.
 
-> Since 2013, I'm a professional with experience as Web UI Developer 👨‍💻 where I have been working  with programming languages such as: ```HTML, CSS, JavaScript and frameworks (or libraries)``` for every one. I program web apps ***from Web Layout to API's integration***, always working under agile methodologies like **SCRUM**. Also, I have certificates and some projects about UX design 🖼.
+> Since 2013, I have been a professional with experience as Web UI Developer 👨‍💻 where I have been working  with programming languages such as: ```HTML, CSS, JavaScript and frameworks (or libraries)``` for every one. I program web apps ***from Web Layout to API's integration***, always working under agile methodologies like **SCRUM**. Also, I have certificates and some projects about UX design 🖼.
 
 🎓 I'm Telematic Engineer
 
