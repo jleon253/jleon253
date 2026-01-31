@@ -126,4 +126,5 @@ Do you want to check some of my code?
 Write an email or download my CV.
 - [jleon253@gmail.com](mailto:jleon253@gmail.com)
 - [Curriculum with Design](https://github.com/jleon253/jleon253/blob/master/JOHN_LEON_FrontEnd-2026-CV.pdf)
-- [Curriculum for ATS](https://github.com/jleon253/jleon253/blob/master/JOHN_LEON_FrontEnd-2026-ATS.pdf)
+- [Curriculum for ATS - ES](https://github.com/jleon253/jleon253/blob/master/CV_JOHN_LEON_Senior_Front_End-ES.pdf)
+- [Curriculum for ATS - EN](https://github.com/jleon253/jleon253/blob/master/CV_JOHN_LEON_Senior_Front_End-EN.pdf)
