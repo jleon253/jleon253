@@ -117,8 +117,10 @@ Do you want to check some of my code?
 
 # 💻 Find me here too
 
-- [Portfolio](https://www.behance.net/jleon253) where I share the user interface and appearance of all the projects I have participated in as an employee and freelancer.
 - [Linkedin](https://www.linkedin.com/in/jleon253/) where I share my curriculum with more details such as certificates and courses taken.
+- [Portfolio](https://www.behance.net/jleon253) where I share the user interface and appearance of all the projects I have participated in as an employee and freelancer.
+- [CodePen](https://codepen.io/jleon253) where I share some art using CSS and JS.
+- [Medium](https://medium.com/@jleon253) where I started sharing articles about coding, UX design, and other technology topics.
 
 
 # Resources
